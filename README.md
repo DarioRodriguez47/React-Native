@@ -73,7 +73,7 @@ ExamenAppExpo/
 
 ## Autor
 
-- Tu Nombre
+- Lenin Rodriguez
 - Fecha: 16 de agosto de 2025
 
 ## Licencia
